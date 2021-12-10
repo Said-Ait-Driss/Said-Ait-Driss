@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm SAID AIT DRISS</h1>
 <h3 align="center">A passionate full stack web developer from Morocco .I'm very interested in web technologies.</h3>
 
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@mr-miller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mr-miller" height="30" width="40" /></a>
+<a href="https://codepen.io/mr-miller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mr-miller" height="30" width="40" /></a>
 <a href="https://twitter.com/ait_driss_said" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ait_driss_said" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/said-ait-driss-6b747b179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="said-ait-driss-6b747b179" height="30" width="40" /></a>
 <a href="https://fb.com/said.aitdriss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="said.aitdriss" height="30" width="40" /></a>
@@ -27,5 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=said-ait-driss&show_icons=true&locale=en&layout=compact" alt="said-ait-driss" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=said-ait-driss&show_icons=true&locale=en" alt="said-ait-driss" /></p>
-
 
