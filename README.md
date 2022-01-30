@@ -57,7 +57,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@d0a38081-da01-408e-bfaf-fed49b28b72b&compact=True"/>
 </a>
-<br>
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=said-ait-driss&show_icons=true&locale=en&layout=compact" alt="said-ait-driss" />&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=said-ait-driss&show_icons=true&locale=en" alt="said-ait-driss" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=said-ait-driss&" alt="said-ait-driss" /></p>
