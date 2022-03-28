@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAID AIT DRISS</h1>
 <h3 align="center">A passionate full stack web developer from Morocco .I'm very interested in web technologies.</h3>
 <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/Said-Ait-Driss/Said-Ait-Driss/main/said%20ait%20driss.jpg" alt="cover" />
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/Said-Ait-Driss/Said-Ait-Driss/main/said%20ait%20driss%2.jpg" alt="cover" />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=said-ait-driss&label=Profile%20views&color=0e75b6&style=flat" alt="said-ait-driss" /> </p>
 
