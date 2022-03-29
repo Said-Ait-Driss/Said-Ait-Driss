@@ -3,9 +3,9 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/Said-Ait-Driss/Said-Ait-Driss/main/said%20ait%20driss%202.jpg" alt="cover" />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=said-ait-driss&label=Profile%20views&color=0e75b6&style=flat" alt="said-ait-driss" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=said-ait-driss&label=Profile%20views&color=0e75b6&style=flat" alt="said-ait-driss" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ait_driss_said" target="blank"><img src="https://img.shields.io/twitter/follow/ait_driss_said?logo=twitter&style=for-the-badge" alt="ait_driss_said" /></a> </p>
+<p align="center"> <a href="https://twitter.com/ait_driss_said" target="blank"><img src="https://img.shields.io/twitter/follow/ait_driss_said?logo=twitter&style=for-the-badge" alt="ait_driss_said" /></a> </p>
 
 - You can also check out my portfolio at [https://Said-Ait-Driss.github.io/](https://Said-Ait-Driss.github.io/)
 
@@ -13,15 +13,15 @@
 
 - 📫 How to reach me **https://twitter.com/AIT_DRISS_SAID**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/mr-miller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mr-miller" height="30" width="40" /></a>
 <a href="https://twitter.com/ait_driss_said" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ait_driss_said" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/said-ait-driss-6b747b179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="said-ait-driss-6b747b179" height="30" width="40" /></a>
 <a href="https://fb.com/said.aitdriss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="said.aitdriss" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
