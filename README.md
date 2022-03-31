@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-- You can also check out my portfolio at [https://Said-Ait-Driss.github.io/](https://Said-Ait-Driss.github.io/)
+- You can also check out my portfolio at https://Said-Ait-Driss.github.io/
 
 - 💬 Ask me about **node ,react ,vue and laravel**
 
