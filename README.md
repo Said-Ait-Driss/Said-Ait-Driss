@@ -30,7 +30,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <img src="https://img.shields.io/badge/HTML5-ececec.svg?logo=html5&style=flat" />
