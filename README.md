@@ -105,8 +105,6 @@
      <img src="https://img.shields.io/badge/Adobe Photoshop-001d34.svg?logo=adobe-photoshop&style=flat" />
   </a>
 </p>
-<h2> Stuff I worked on last week  
-   <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@d0a38081-da01-408e-bfaf-fed49b28b72b&compact=True"/>
 </a>
@@ -115,3 +113,5 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=said-ait-driss&" alt="said-ait-driss" />
 </p>
 
+<h2> Stuff I worked on last week  
+   <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> </h2>
