@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Said Ait Driss</h1>
-<h3 align="center">A passionate full stack web developer from Morocco . very interested in web technologies.</h3>
+<h3 align="center">A passionate full stack web developer from Morocco. And very interested in web technologies.</h3>
 <div align="center">
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/Said-Ait-Driss/Said-Ait-Driss/main/said%20ait%20driss%202.jpg" alt="cover" />
 </div>
