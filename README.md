@@ -17,7 +17,7 @@
 <p align="left">
 - You can also check out my portfolio at https://Said-Ait-Driss.github.io/
 
-- 💬 Ask me about **node ,react and laravel**
+- 💬 Ask me about **node ,react**
 
 - 📫 How to reach me **https://twitter.com/AIT_DRISS_SAID**
 </p>
