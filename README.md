@@ -107,8 +107,8 @@
 </p>
 ### Hi there 👋
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Said-Ait-Driss/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Said-Ait-Driss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Said-Ait-Driss/Said-Ait-Driss/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Said-Ait-Driss/Said-Ait-Driss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![](https://komarev.com/ghpvc/?username=Said-Ait-Driss)
 
