@@ -108,16 +108,6 @@
      <img src="https://img.shields.io/badge/Adobe Photoshop-001d34.svg?logo=adobe-photoshop&style=flat" />
   </a>
 </p>
-### Hi there 👋
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Said-Ait-Driss/Said-Ait-Driss/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Said-Ait-Driss/Said-Ait-Driss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-![](https://komarev.com/ghpvc/?username=Said-Ait-Driss)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@d0a38081-da01-408e-bfaf-fed49b28b72b&compact=True"/>
-</a>
 
 <h2> Stuff I worked on last week  
    <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" height="40"> </h2>
