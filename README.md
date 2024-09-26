@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Said Ait Driss</h1>
 <h3 align="center">A passionate full stack web developer from Morocco. And very interested in web technologies.</h3>
 <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/Said-Ait-Driss/Said-Ait-Driss/main/said%20ait%20driss%202.jpg" alt="cover" />
+   <img width="100%" height = "250px" src="https://raw.githubusercontent.com/Said-Ait-Driss/Said-Ait-Driss/main/said%20ait%20driss%202.jpg" alt="cover" />
 </div>
 <p align="left"> 
    <img src="https://komarev.com/ghpvc/?username=said-ait-driss&label=Profile%20views&color=0e75b6&style=flat" alt="said-ait-driss" />
@@ -13,6 +13,9 @@
       <img src="https://img.shields.io/twitter/follow/ait_driss_said?logo=twitter&style=for-the-badge" alt="ait_driss_said" />
    </a> 
 </p>
+<div align="center">
+   <img src="https://raw.githubusercontent.com/Said-Ait-Driss/Said-Ait-Driss/main/contributions.svg" />
+</div>
 
 <p align="left">
 - You can also check out my portfolio at https://Said-Ait-Driss.github.io/
